@@ -1,0 +1,53 @@
+ [
+  {
+    "id": 1,
+    "teamName": "Florida State Seminoles",
+    "location": "Tallahassee",
+    "conference": "ACC",
+    "mascotEmblem": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Florida_State_Seminoles_logo.svg/1200px-Florida_State_Seminoles_logo.svg.png"
+    
+  },
+  {
+    "id": 2,
+    "teamName": "University of Miami Hurricanes",
+    "location": "Miami",
+    "conference": "ACC",
+    "mascotEmblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Miami_Hurricanes_logo.svg/1200px-Miami_Hurricanes_logo.svg.png"
+  },
+  {
+    "id": 3,
+    "teamName": "University of Texas Longhorns",
+    "location": "Austin",
+    "conference": "Big 12",
+    "mascotEmblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Texas_Longhorns_logo.svg/2560px-Texas_Longhorns_logo.svg.png"
+  },
+  {
+    "id": 4,
+    "teamName": "Oklahoma Sooners",
+    "location": "Norman",
+    "conference": "Big 12",
+    "mascotEmblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Oklahoma_Sooners_logo.svg/1200px-Oklahoma_Sooners_logo.svg.png"
+    
+  },
+  {
+    "id": 5,
+    "teamName": "Alabama Crimson Tide",
+    "location": "Tuscaloosa",
+    "conference": "SEC",
+    "mascotEmblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Alabama_Athletics_logo.svg/800px-Alabama_Athletics_logo.svg.png"
+  },
+  {
+    "id": 6,
+    "teamName": "University of Florida",
+    "location": "Gainesville",
+    "conference": "SEC",
+    "mascotEmblem": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Florida_Gators_gator_logo.svg/1200px-Florida_Gators_gator_logo.svg.png"
+  },
+  {
+    "id": 7,
+    "teamName": "Florida Atlantic University Owls",
+    "location": "Boca Raton",
+    "conference": "American Athletic Conference",
+    "mascotEmblem" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Florida_Atlantic_Owls_logo.svg/1200px-Florida_Atlantic_Owls_logo.svg.png"
+  }
+]
